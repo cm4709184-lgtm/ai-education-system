@@ -1,0 +1,89 @@
+<<<<<<< HEAD
+# 编译产物
+**/Debug/
+**/build/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.d
+*.su
+*.cyclo
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.settings/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+~$.*
+
+# 训练数据（不公开）
+pc_terminal/projects/
+pc_terminal/alldata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 重复压缩包
+*.zip
+=======
+# 编译产物
+**/Debug/
+**/build/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.d
+*.su
+*.cyclo
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.settings/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+~$.*
+
+# 训练数据（不公开）
+pc_terminal/projects/
+pc_terminal/alldata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 重复压缩包
+*.zip
+>>>>>>> 89488185c058419210bcfee419b3993226792bc0

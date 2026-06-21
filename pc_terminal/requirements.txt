@@ -1,0 +1,8 @@
+PyQt5>=5.15
+numpy>=1.21
+pyserial>=3.5
+librosa>=0.9
+sounddevice>=0.4
+scikit-learn>=1.0
+torch>=1.10
+matplotlib>=3.5

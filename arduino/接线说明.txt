@@ -1,0 +1,5 @@
+arduino uno                     max9814
+
+GND                                      GND
+3.3                                          VDD
+A0                                            out
